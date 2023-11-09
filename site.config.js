@@ -1,19 +1,19 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Reza",
+    name: "Singgih",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "developer",
     bio: "Iam student at Gunadarma.",
-    email: "m.rezahidayat.rh@gmail.com",
-    linkedin: "rezahidayatrh",
-    github: "rezapace",
-    instagram: "rezarh.go",
+    email: "singgihrbn08@gmail.com",
+    linkedin: "https://www.linkedin.com/in/singgih-rahbanu/",
+    github: "https://github.com/cos08",
+    instagram: "singgihrbnnn",
   },
   projects: [
     {
-      name: `Reza`,
-      href: "https://github.com/rezapace",
+      name: `Singgih`,
+      href: "https://github.com/cos08",
     },
   ],
   // blog setting (required)
